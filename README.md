@@ -1,8 +1,8 @@
-# React + Vite
+# AI Summarizer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Sumz is a article summarizer app which summarizes the article only with the url.
+This web-app uses rapid-api's api named article summarizer to sum up the details.
+This project is made with the help of React, tailwind-css, redux and rapid-api.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The webapp looks like this:
+![image](https://github.com/Greninja28/AI-Summarizer/assets/89766122/a94a8060-7ad6-489d-848a-de678aa2dfd4)
